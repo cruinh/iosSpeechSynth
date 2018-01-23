@@ -9,7 +9,7 @@ After running the playground, tap into the textbox at the bottom of the live vie
 
 The important part of the demo is in the speak() function, which shows converting a string into a voice that's output from the device speakers (as long as the volume is up).
 
-##Usage
+## Usage
 You'll need either a copy of XCode, or a copy of the Swift Playgrounds 2.0 app.  
 
 With XCode installed on your Mac, just download this repo and double-click the playground to open it.  
